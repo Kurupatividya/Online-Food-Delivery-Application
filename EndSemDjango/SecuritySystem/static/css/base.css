@@ -1,0 +1,14 @@
+body
+{
+ background-color: #4b778d;
+
+}
+.row
+{
+ display: justify-content-around;
+ border: 2px solid white;
+}
+.edit
+{
+ border:10px solid red
+}
